@@ -27,6 +27,8 @@ Soy administrador de empresas y apasionado por el análisis de datos. Me especia
 
 ### 📂 Proyectos Destacados
 
+* **[End-to-End HR Data Warehouse](https://github.com/SebastianRamirezGuzman/End-to-End-HR-Data-Warehouse-Project):** Diseño de arquitectura de datos para RRHH, implementando modelado dimensional (Star Schema) y procesos ETL robustos en SQL Server.
+* **[Marketing Campaign Analysis](https://github.com/SebastianRamirezGuzman/marketing-campaign-analysis):** Análisis estratégico de campañas para optimizar el ROI y segmentar clientes, transformando datos crudos en insights de negocio con Power BI. 
 * **[Análisis de Rendimiento Deportivo - IPD](https://github.com/SebastianRamirezGuzman/IPD-Sports-Data-Analysis):** Procesamiento de datos gubernamentales con SQL avanzado y dashboards interactivos.
 * **[Análisis Inmobiliario USA](https://github.com/SebastianRamirezGuzman/USA-Housing-Market-Analysis):** Implementación de arquitectura de datos y modelado dimensional.
 
