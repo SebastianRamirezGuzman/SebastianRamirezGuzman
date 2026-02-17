@@ -8,7 +8,7 @@ Administrador de empresas con enfoque en análisis de datos: Traduciendo métric
 ### 👤 Sobre Mí
 Soy administrador de empresas y apasionado por el análisis de datos. Me especializo en flujos de trabajo **End-to-End**, desde la extracción y limpieza con **SQL Server** hasta la narrativa visual en **Power BI**.
 
-* 📍 Basado en Lima, Perú.
+* 📍 Lima, Perú.
 * 📚 Formándome en Data Analytics & Automatización (DMC).
 * ☕ Disfruto resolviendo problemas de lógica DAX y optimización de queries.
 
